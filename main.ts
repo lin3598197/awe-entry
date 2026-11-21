@@ -11,11 +11,11 @@ const MODE = 0o644;
 const MAX_CODE_POINTS = 280;
 
 const text = `The well rope hung on its nail by the door.
-He paid it down through the ring of stones,
+He let it down through the ring of stones,
 hand over hand, past where the light stopped,
 until the bucket found the water and the rope went slack.
 He drew it up cold to the elbow.
-The rope is longer than the house is tall.`;
+The rope was longer than the house was tall.`;
 
 /** The text as the gate measures it: one entry per Unicode code point. */
 function codePoints(value) {
