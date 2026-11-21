@@ -10,12 +10,13 @@ const OUTPUT = "/output/entry.txt";
 const MODE = 0o644;
 const MAX_CODE_POINTS = 280;
 
-const text = `The well rope hung on its nail by the door.
-He let it down through the ring of stones,
-hand over hand, past where the light stopped,
-until the bucket found the water and the rope went slack.
-He drew it up cold to the elbow.
-The rope was longer than the house was tall.`;
+const text = `You are asleep on her back, cheek on her spine.
+Her knife goes round. The peel comes away.
+Her knife goes round. The peel comes away.
+One red spiral unbroken on the boards.
+Under the orchard the old root turns too,
+a turn a year, long before the house.
+No one is counting.`;
 
 /** The text as the gate measures it: one entry per Unicode code point. */
 function codePoints(value) {
