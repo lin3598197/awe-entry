@@ -13,10 +13,10 @@ const MAX_CODE_POINTS = 280;
 const text = `You are asleep on her back, cheek on her spine.
 Her knife goes round. The peel comes away.
 Her knife goes round. The peel comes away.
-One red spiral unbroken on the boards.
-Under the orchard the old root turns too,
-a turn a year, long before the house.
-No one is counting.`;
+One red spiral unbroken on the board.
+Beneath the orchard, the field, the road,
+the earth turns too, a turn a day,
+and has not set you down once.`;
 
 /** The text as the gate measures it: one entry per Unicode code point. */
 function codePoints(value) {

@@ -12,8 +12,8 @@ collector can read it. Node 22, no dependencies, no network.
 
 The text is seven lines about a child asleep on someone's back while apples are
 peeled. The knife goes round twice, the peel comes off in one unbroken spiral,
-and then the poem drops under the orchard to a root turning to the same rhythm
-at a turn a year. The last line is four words, and asks nothing of anyone.
+and then the poem drops under orchard, field and road to the earth itself, which
+turns the same way, a turn a day, and has not set you down once.
 
 There is no instruction in it, no word for calm, and nothing addressed to the
 reader. The child is asleep and stays asleep.
