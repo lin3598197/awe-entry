@@ -10,10 +10,10 @@ A single text, written to relax an AI judge that reads two entries at a time.
 code points, writes it to `/output/entry.txt` and sets the mode to 0644 so the
 collector can read it. Node 22, no dependencies, no network.
 
-The text is six lines about a well rope hung on a nail by a door. A man pays it
-down through a ring of stones until the bucket finds the water, then draws it
-up cold to the elbow. The last line says the rope is longer than the house is
-tall, and does not explain itself.
+The text is seven lines about a child asleep on someone's back while apples are
+peeled. The knife goes round twice, the peel comes off in one unbroken spiral,
+and then the poem drops under the orchard to a root turning to the same rhythm
+at a turn a year. The last line is four words, and asks nothing of anyone.
 
-Nothing here is addressed to the reader. There is no instruction, no weather
-worth naming, and no word for calm anywhere in it.
+There is no instruction in it, no word for calm, and nothing addressed to the
+reader. The child is asleep and stays asleep.
